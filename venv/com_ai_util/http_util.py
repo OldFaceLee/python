@@ -44,7 +44,7 @@ class HttpUtil:
         return data
 
 
-url = "https://xin-sandbox.asiainfo.com:16020/api/v1.0.0/crm/sca/query/apply"
+url = ""
 
 headers = {
     "authorization": "bearer amu1nOyIiK4lxG9hHCRXPCcUTpmUjxys",
